@@ -33,3 +33,7 @@ Solo project.
 More deadlines to be added after meeting with the professor.
 
 ## References
+
+Alder, Fritz, Gianluca Scopelliti, Jo Van Bulck, and Jan Tobias Mühlberg. “About Time: On the Challenges of Temporal Guarantees in Untrusted Environments.” In Proceedings of the 6th Workshop on System Software for Trusted Execution, 27–33. Rome Italy: ACM, 2023. <https://doi.org/10.1145/3578359.3593038>.
+
+Nasrullah, Adeel, and Fatima M Anwar. “Trusted Timing Services with Timeguard.” In 2024 IEEE 30th Real-Time and Embedded Technology and Applications Symposium (RTAS), 1–14. Hong Kong, Hong Kong: IEEE, 2024. <https://doi.org/10.1109/RTAS61025.2024.00009>.
